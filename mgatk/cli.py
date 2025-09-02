@@ -76,7 +76,7 @@ def main(mode, input, output, name, mito_genome, ncores,
 	
 	"""
 	mgatk: a mitochondrial genome analysis toolkit. \n
-	MODE = ['bcall', 'call', 'tenx', 'check', 'support', 'remove-background (DEPRECATED)'] \n
+	MODE = ['bcall', 'call', 'tenx', 'check', 'support'] \n
 	See https://github.com/caleblareau/mgatk/wiki for more details.
 	"""
 	
